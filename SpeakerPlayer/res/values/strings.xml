@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SpeakerPlayer</string>
+    <string name="action_settings">Settings</string>
+    <string name="Title">Just Make Noice!</string>
+    <string name="textViewFrequency">Frequency (Hz)</string>
+    <string name="textViewLastedSeconds">Sec</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_play_sound">Play Sound</string>
+
+</resources>
